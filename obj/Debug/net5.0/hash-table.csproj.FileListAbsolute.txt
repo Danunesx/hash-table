@@ -1,0 +1,16 @@
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\bin\Debug\net5.0\hash-table.exe
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\bin\Debug\net5.0\hash-table.deps.json
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\bin\Debug\net5.0\hash-table.runtimeconfig.json
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\bin\Debug\net5.0\hash-table.runtimeconfig.dev.json
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\bin\Debug\net5.0\hash-table.dll
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\bin\Debug\net5.0\ref\hash-table.dll
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\bin\Debug\net5.0\hash-table.pdb
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\obj\Debug\net5.0\hash-table.csproj.AssemblyReference.cache
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\obj\Debug\net5.0\hash-table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\obj\Debug\net5.0\hash-table.AssemblyInfoInputs.cache
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\obj\Debug\net5.0\hash-table.AssemblyInfo.cs
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\obj\Debug\net5.0\hash-table.csproj.CoreCompileInputs.cache
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\obj\Debug\net5.0\hash-table.dll
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\obj\Debug\net5.0\ref\hash-table.dll
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\obj\Debug\net5.0\hash-table.pdb
+C:\Users\Isabe\OneDrive\Área de Trabalho\hash-table\obj\Debug\net5.0\hash-table.genruntimeconfig.cache
